@@ -1,3 +1,4 @@
 Teste
 Adicionei essa linha após apagar o coomit que continha a alteração que tinha feito nela anteriormente
 Esta linha foi modificada no ramo master
+Esta linha foi modificada no ramo teste
